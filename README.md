@@ -4,4 +4,4 @@ Data used for the analysis conducted within the mSystems Submission:
 1. Bioinformatic Sript - R-Markdown File 
 2. FASTA file of NIS-Type Siderophore genes 
 3. CheckM analysis of the 52 MAGs assembled in this analysis
-4. FASTA files of the 52 MAGs assembled in this analysis 
+
